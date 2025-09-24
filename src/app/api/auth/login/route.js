@@ -4,7 +4,7 @@ import jwt from "jsonwebtoken";
 import { users } from "../../../../../lib/users";
 
 
-const SECRET = process.env.JWT_SECRET || "dev_secret"; // use .env.local later
+const SECRET = process.env.JWT_SECRET || "dev_secret"; 
 
 export async function POST(req) {
   try {
