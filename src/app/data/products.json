@@ -1,0 +1,200 @@
+{
+  "categories": [
+    {
+      "id": "pomades",
+      "name": "Pomades",
+      "description": "Premium hair styling pomades"
+    },
+    {
+      "id": "lotions",
+      "name": "Lotions",
+      "description": "Nourishing body and face lotions"
+    },
+    {
+      "id": "cremes",
+      "name": "Crèmes",
+      "description": "Luxurious moisturizing crèmes"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic Hold Pomade",
+      "category": "pomades",
+      "price": 24.99,
+      "rating": 4.8,
+      "reviews": 127,
+      "image": "/api/placeholder/300/300",
+      "description": "Strong hold pomade with natural finish. Perfect for classic and modern hairstyles.",
+      "vendor": "StyleCraft",
+      "stock": 45,
+      "tags": ["strong-hold", "natural-finish", "water-based"]
+    },
+    {
+      "id": "2",
+      "name": "Matte Finish Pomade",
+      "category": "pomades",
+      "price": 22.99,
+      "rating": 4.6,
+      "reviews": 89,
+      "image": "/api/placeholder/300/300",
+      "description": "Oil-based pomade with matte finish for natural looking styles.",
+      "vendor": "BarberCo",
+      "stock": 32,
+      "tags": ["matte-finish", "oil-based", "medium-hold"]
+    },
+    {
+      "id": "3",
+      "name": "Premium Clay Pomade",
+      "category": "pomades",
+      "price": 28.99,
+      "rating": 4.9,
+      "reviews": 203,
+      "image": "/api/placeholder/300/300",
+      "description": "Clay-based pomade with strong hold and texture. Ideal for voluminous styles.",
+      "vendor": "CraftStyle",
+      "stock": 28,
+      "tags": ["clay-based", "strong-hold", "texture"]
+    },
+    {
+      "id": "4",
+      "name": "Hydrating Face Lotion",
+      "category": "lotions",
+      "price": 34.99,
+      "rating": 4.7,
+      "reviews": 156,
+      "image": "/api/placeholder/300/300",
+      "description": "Daily moisturizing lotion with SPF 30 protection and hyaluronic acid.",
+      "vendor": "SkinLux",
+      "stock": 67,
+      "tags": ["spf-30", "hyaluronic-acid", "daily-use"]
+    },
+    {
+      "id": "5",
+      "name": "Vitamin E Body Lotion",
+      "category": "lotions",
+      "price": 18.99,
+      "rating": 4.5,
+      "reviews": 342,
+      "image": "/api/placeholder/300/300",
+      "description": "Nourishing body lotion enriched with Vitamin E and shea butter.",
+      "vendor": "NatureCare",
+      "stock": 89,
+      "tags": ["vitamin-e", "shea-butter", "body-care"]
+    },
+    {
+      "id": "6",
+      "name": "Anti-Aging Serum Lotion",
+      "category": "lotions",
+      "price": 45.99,
+      "rating": 4.8,
+      "reviews": 98,
+      "image": "/api/placeholder/300/300",
+      "description": "Advanced anti-aging lotion with retinol and peptides for youthful skin.",
+      "vendor": "AgeDefense",
+      "stock": 23,
+      "tags": ["retinol", "anti-aging", "peptides"]
+    },
+    {
+      "id": "7",
+      "name": "Luxury Night Crème",
+      "category": "cremes",
+      "price": 78.99,
+      "rating": 4.9,
+      "reviews": 134,
+      "image": "/api/placeholder/300/300",
+      "description": "Rich overnight crème with 24k gold and collagen for deep moisturization.",
+      "vendor": "GoldSkin",
+      "stock": 15,
+      "tags": ["24k-gold", "collagen", "overnight"]
+    },
+    {
+      "id": "8",
+      "name": "Eye Contour Crème",
+      "category": "cremes",
+      "price": 42.99,
+      "rating": 4.6,
+      "reviews": 87,
+      "image": "/api/placeholder/300/300",
+      "description": "Gentle eye crème with caffeine and vitamin C to reduce puffiness.",
+      "vendor": "EyeCare Pro",
+      "stock": 41,
+      "tags": ["caffeine", "vitamin-c", "eye-care"]
+    },
+    {
+      "id": "9",
+      "name": "Moisturizing Day Crème",
+      "category": "cremes",
+      "price": 52.99,
+      "rating": 4.7,
+      "reviews": 176,
+      "image": "/api/placeholder/300/300",
+      "description": "Lightweight day crème with natural botanicals and UV protection.",
+      "vendor": "BotanicLux",
+      "stock": 56,
+      "tags": ["botanicals", "uv-protection", "lightweight"]
+    },
+    {
+      "id": "10",
+      "name": "Shine Boost Pomade",
+      "category": "pomades",
+      "price": 26.99,
+      "rating": 4.4,
+      "reviews": 76,
+      "image": "/api/placeholder/300/300",
+      "description": "High-shine pomade for slick-back styles with medium hold.",
+      "vendor": "ShineStyle",
+      "stock": 38,
+      "tags": ["high-shine", "medium-hold", "slick-back"]
+    },
+    {
+      "id": "11",
+      "name": "Sensitive Skin Lotion",
+      "category": "lotions",
+      "price": 29.99,
+      "rating": 4.8,
+      "reviews": 234,
+      "image": "/api/placeholder/300/300",
+      "description": "Gentle lotion for sensitive skin with chamomile and aloe vera.",
+      "vendor": "GentleCare",
+      "stock": 72,
+      "tags": ["sensitive-skin", "chamomile", "aloe-vera"]
+    },
+    {
+      "id": "12",
+      "name": "Firming Body Crème",
+      "category": "cremes",
+      "price": 65.99,
+      "rating": 4.7,
+      "reviews": 109,
+      "image": "/api/placeholder/300/300",
+      "description": "Firming body crème with marine collagen and elastin boosters.",
+      "vendor": "FirmSkin",
+      "stock": 29,
+      "tags": ["marine-collagen", "firming", "elastin"]
+    }
+  ],
+  "sliderImages": [
+    {
+      "id": "1",
+      "url": "src/assets/hero-pomades.jpg",
+      "title": "Premium Pomades Collection",
+      "subtitle": "Discover our range of professional styling products",
+      "link": "/category/pomades"
+    },
+    {
+      "id": "2",
+      "url": "src/assets/hero-lotions.jpg",
+      "title": "Luxury Skincare Lotions",
+      "subtitle": "Nourish your skin with our premium formulas",
+      "link": "/category/lotions"
+    },
+    {
+      "id": "3",
+      "url": "src/assets/hero-cremes.jpg",
+      "title": "Anti-Aging Crèmes",
+      "subtitle": "Turn back time with our advanced formulations",
+      "link": "/category/cremes"
+    }
+  ]
+}
