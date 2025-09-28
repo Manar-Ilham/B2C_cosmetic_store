@@ -1,7 +1,6 @@
 "use client";
-import App from "@/app/App";
-import "./globals.css";
+import HomePage from "@/app/home/page";
 
 export default function Page() {
-  return <App />;
+  return <HomePage />;
 }

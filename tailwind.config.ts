@@ -1,11 +1,12 @@
-/** @type {import('tailwindcss').Config} */
-module.exports = {
+import type { Config } from "tailwindcss";
+
+const config: Config = {
+
   content: [
-    "./app/**/*.{js,ts,jsx,tsx}",
-    "./app/components/ui/*.{js,ts,jsx,tsx}",
-    "./app/components/*.{js,ts,jsx,tsx}",
-    "./app/*.{js,ts,jsx,tsx,css}",
-    "./app/pages/*.{tsx}"
+    "./src/app/**/*.{js,ts,jsx,tsx}",
+    "./src/app/components/ui/*.{js,ts,jsx,tsx}",
+    "./src/app/components/*.{js,ts,jsx,tsx}",
+    "./src/app/*.{js,ts,jsx,tsx,css}",
   ],
   theme: {
     extend: {
@@ -75,3 +76,4 @@ module.exports = {
   },
   plugins: [],
 };
+export default config;

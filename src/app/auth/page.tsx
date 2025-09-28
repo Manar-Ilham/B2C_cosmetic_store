@@ -1,4 +1,4 @@
-import React from 'react';
+"use client";
 import AuthForm from '@/app/components/AuthForm';
 
 const AuthPage: React.FC = () => {
