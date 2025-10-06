@@ -26,6 +26,6 @@
   
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/api/auth/register/route.ts", "src/app/api/auth/login/route.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/api/(auth)/register/route.ts", "src/app/api/(auth)/login/route.ts"],
   "exclude": ["node_modules"]
 }
